@@ -14,7 +14,7 @@ HotelBot is a demo project focused on the integration of some Cognitive Services
 In the **.env** file, there are some settings for Cognitive Services APIs and Bot Framework. 
 
 * Each API has its own flag for enabling or disabling the service and an API key (except LUIS, that uses an URL).
-* For Bot Framework
+* For Bot Framework, you can configure application ID and password.
 
 ## 1. Using LUIS
 
