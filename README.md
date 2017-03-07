@@ -27,10 +27,10 @@ For more information about the LUIS settings, please check out the [LUIS Bot Sam
 * The Text Analytics API is used for sentiment analysis. When the user wants to provide a feedback, this service is used to check how satisfied the user is according to the message sent.
 * The Web Language Model API is used to break a string into words when the user doesn't do it correctly.
 
-## 2. Cognitive Services package
+## 3. Cognitive Services package
 
 In the folder **models/cognitive-services** you will find javascript files for each Cognitive Services API. 
-In the **app.js** file, all models are called for different purposes as described below.
+In the **app.js** file, all models are called for different purposes as described above.
 
 
 
